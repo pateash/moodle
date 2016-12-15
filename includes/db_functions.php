@@ -3,7 +3,7 @@
 /* function for connecting to database*/
   function connectDB()
   {
-     $connection=mysqli_connect("mysql1.000webhost.com","a7250001_admin","M@oodle200893","a7250001_moodle");
+     $connection=mysqli_connect("","","","");
      return $connection;	
   }
 /*function for checking connectivity
