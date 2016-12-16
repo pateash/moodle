@@ -1,0 +1,13 @@
+MYSQL
+------
+username-a7250001_admin
+database-a7250001_moodle
+password-M@oodle200893
+mysqlHost-mysql1.000webhost.com
+
+
+FTP
+----
+host-manitmoodle.tk
+username-a7250001
+password-200893
